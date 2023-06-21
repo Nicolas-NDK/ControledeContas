@@ -1,0 +1,15 @@
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\obj\Debug\net7.0\ControlesDeContas.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\obj\Debug\net7.0\ControlesDeContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\obj\Debug\net7.0\ControlesDeContas.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\obj\Debug\net7.0\ControlesDeContas.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\obj\Debug\net7.0\ControlesDeContas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\bin\Debug\net7.0\ControlesDeContas.exe
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\bin\Debug\net7.0\ControlesDeContas.deps.json
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\bin\Debug\net7.0\ControlesDeContas.runtimeconfig.json
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\bin\Debug\net7.0\ControlesDeContas.dll
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\bin\Debug\net7.0\ControlesDeContas.pdb
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\obj\Debug\net7.0\ControlesDeContas.dll
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\obj\Debug\net7.0\refint\ControlesDeContas.dll
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\obj\Debug\net7.0\ControlesDeContas.pdb
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\obj\Debug\net7.0\ControlesDeContas.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\ControlesDeContas\ControlesDeContas\obj\Debug\net7.0\ref\ControlesDeContas.dll
